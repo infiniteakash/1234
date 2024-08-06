@@ -1,0 +1,11 @@
+h1{
+    color: aqua;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(red.jpg); width: 450; height: 500;
+    background-repeat: no-repeatS;
+}
